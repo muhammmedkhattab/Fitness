@@ -14,6 +14,7 @@ body {
 	color:#fff;
 	background-color:#fff;
 	overflow-x:hidden;
+	
 }
 
 hi,h2,h3,h4,h5,h6 {
@@ -136,8 +137,11 @@ input[type=textmodel], input[type=passwordmodel] {
 /*===========================
   Menu and Navigation
 ============================ */
+/*===========================
+  MK Edits
+============================ */
 .navigation  {
-	background-color:#fff;
+	background-color: #00121f;
 	padding:0;
 }
 
@@ -268,7 +272,7 @@ input[type=textmodel], input[type=passwordmodel] {
 /*===========================
  MK Edits  
 ============================ */
-	background: #d9f1ff;
+	background:#d9ae6a;
 }
 
 .center h2{
@@ -554,7 +558,7 @@ ul.social-network {
   -o-transition: all 0.3s ease-in-out;
 }
 .sub-footer  {
-	background:#d9f1ff;
+	background:#00121f;
 	
 }
 
@@ -597,13 +601,13 @@ ul.social-network li a {
 ============================ */
 .copyright {
 	margin-top:30px;
-	color:#000;
+	color:#fff;
 }
 /*===========================
  MK Edits  
 ============================ */
 .copyright a {
-	color:#000;
+	color:#d9ae6a;
 	text-transform:uppercase;
 	font-weight:600;
 	font-size:12px;
